@@ -18,7 +18,7 @@
   <h2 id="installation">Installation</h2>
   <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your-username/atm-machine.git</code></pre>
+    <pre><code>git clone https://github.com/RUPAKparajuli07/ATM-machine-using-python.git</code></pre>
     <li>Change to the project directory:</li>
     <pre><code>cd atm-machine</code></pre>
     <li>Install the required dependencies:</li>
