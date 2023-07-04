@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ATM Machine</title>
+
 </head>
 <body>
   <h1>ATM Machine</h1>
